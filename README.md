@@ -22,6 +22,7 @@ To use this application, you will need to obtain your own RapidAPI JSearch API k
 
 <div style="display:flex; flex-direction:row; justify-content:center; gap:50px;">
   <img width="179" alt="image" src="https://user-images.githubusercontent.com/92062352/233835681-7ef90187-398d-4df5-83f6-fe6091a9f9a2.png">
+  <img width="191" alt="image" src="https://user-images.githubusercontent.com/92062352/233836518-414171e0-dbcc-4ec7-9976-91c69a2f434b.png">
   <img width="180" alt="image" src="https://user-images.githubusercontent.com/92062352/233835639-cea8e4c8-7d8c-49da-8acc-bf471ba7de1e.png">
 </div>
 
